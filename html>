@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Athlete's Lounge</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Athlete's Lounge</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#menu">Menu</a>
+      <a href="#events">Events</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>The Athlete's Lounge was founded by a former pro athlete who dreamed of creating a laid-back space where sports, community, and entertainment collide. With multiple screens playing live games all day, it's the go-to spot for sports lovers to relax, connect, and enjoy good food.</p>
+  </section>
+
+  <section id="menu">
+    <h2>Our Menu</h2>
+    <ul>
+      <li>Game-Day Wings 🍗</li>
+      <li>Protein-Packed Smoothies 🥤</li>
+      <li>Loaded Nachos 🧀</li>
+      <li>Craft Beers & Energy Drinks 🍻⚡</li>
+    </ul>
+  </section>
+
+  <section id="events">
+    <h2>Live Events</h2>
+    <p>Join us every Friday and Saturday night for live music, DJ sets, and guest appearances from local sports legends. Whether it's open mic night or the big game, there's always something happening at the Lounge.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>📍 123 Victory Blvd, Sportstown, USA</p>
+    <p>📞 (123) 456-7890</p>
+    <p>📧 info@athleteslounge.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Athlete's Lounge. All rights reserved.</p>
+  </footer>
+</body>
+</html>
